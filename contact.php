@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -11,10 +10,5 @@
 	<a class="btn btn-default" href="projects.php">My Projects</a>
 	<a class="btn btn-default" href="contact.php">Contact</a>
 </div>
-<div class="paragraph">
-	<p>
-	<h1 class="name">Giselle Noriega</h1>
-	</p>
-	</div>
 </body>
 </html>
