@@ -2,13 +2,36 @@
 <head>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="main.css">
+	<link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>
 	<title></title>
 </head>
-<body class="body" background="images/black.jpg" width="1000px" height="1000px">
+<body class="body">
 <div>
-	<a class="btn btn-default" href="index.php">Home</a>
-	<a class="btn btn-default" href="projects.php">My Projects</a>
-	<a class="btn btn-default" href="contact.php">Contact</a>
+	<div class="container">
+<div class="grid">
+  <ul>
+     <a href="index.php">
+    <li>
+      Home
+    </li>
+        </a>
+    <a href="projects.php"><li>
+       Projects
+    </li>
+      </a>
+   <a href="contact.php">
+    <li>
+       Contact 
+    </li>
+     </a>
+  </ul>
+  <br>
+  <br>
+  <br>
+  <br>
+
+
+</div>
 </div>
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -21,7 +44,7 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="images/dots.jpg" alt="...">
+      <img src="images/todoscreenshot.png" alt="...">
       <div class="carousel-caption">
         Awesomenauts
       </div>
